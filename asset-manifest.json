@@ -1,0 +1,23 @@
+{
+  "files": {
+    "app.js": "/Chleo-Thrift/static/js/app.944850d7.chunk.js",
+    "app.js.map": "/Chleo-Thrift/static/js/app.944850d7.chunk.js.map",
+    "runtime~app.js": "/Chleo-Thrift/static/js/runtime~app.4bdf3ad1.js",
+    "runtime~app.js.map": "/Chleo-Thrift/static/js/runtime~app.4bdf3ad1.js.map",
+    "static/js/2.e47ff04a.chunk.js": "/Chleo-Thrift/static/js/2.e47ff04a.chunk.js",
+    "static/js/2.e47ff04a.chunk.js.map": "/Chleo-Thrift/static/js/2.e47ff04a.chunk.js.map",
+    "fonts/MaterialCommunityIcons.ttf": "/Chleo-Thrift/./fonts/MaterialCommunityIcons.ttf",
+    "favicon-16.png": "/Chleo-Thrift/favicon-16.png",
+    "favicon-32.png": "/Chleo-Thrift/favicon-32.png",
+    "favicon.ico": "/Chleo-Thrift/favicon.ico",
+    "index.html": "/Chleo-Thrift/index.html",
+    "manifest.json": "/Chleo-Thrift/manifest.json",
+    "serve.json": "/Chleo-Thrift/serve.json",
+    "static/js/2.e47ff04a.chunk.js.LICENSE.txt": "/Chleo-Thrift/static/js/2.e47ff04a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.4bdf3ad1.js",
+    "static/js/2.e47ff04a.chunk.js",
+    "static/js/app.944850d7.chunk.js"
+  ]
+}
